@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 600px;
+  margin: 10px auto;
+}
+
+form {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.inputword {
+  width: 100%;
+  padding: 10px 15px;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+select {
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.content {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.child {
+  display: flex;
+  gap: 5px;
+}
+
+.words {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+  margin-bottom: 40px;
+}
+.word {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid #000;
+  background-color: #ccc;
+  border-radius: 5px;
+}
+.word h2 {
+  border-bottom: 1px solid rgb(84, 82, 82);
+}
+
+@media screen and (max-width: 600px) {
+  .words {
+    width: 60%;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  .word {
+    padding: 10px;
+    display: flex;
+  }
+}
