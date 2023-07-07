@@ -110,7 +110,7 @@ const loadTwentyWords = () => {
 
 
 
-  for (let i = 11; i < data.length; i++) {
+  for (let i = 10; i < data.length; i++) {
 
     console.log("data", data[i]);
     words.innerHTML += `
