@@ -53,7 +53,7 @@ const loadTenWords = () => {
                     `
     loading.classList.remove('show');
 
-    if (i == 10) {
+    if (i == 9) {
 
       break;
 
@@ -212,6 +212,7 @@ window.addEventListener('scroll', function () {
     showLoading()
 
     setTimeout(() => {
+
       loadTwentyWords()
 
     }, 1000)
