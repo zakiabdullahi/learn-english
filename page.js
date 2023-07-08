@@ -8,6 +8,8 @@ const getWordsFromLocalStorage = () => {
 
 }
 
+let isloading = false;
+
 const loadTenWords = () => {
 
 
@@ -199,7 +201,22 @@ const loadTwentyWords = () => {
 
 
 const showLoading = () => {
+
   loading.classList.add('show');
+  if (isloading) {
+    return;
+  }
+
+  setTimeout(() => {
+    isloading = true;
+
+    loadTwentyWords()
+    // loading.classList.remove('show');
+
+
+
+
+  }, 1000)
 
 
 }
@@ -210,12 +227,13 @@ window.addEventListener('scroll', function () {
 
   if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
     showLoading()
+    this.setTimeout(() => {
 
-    setTimeout(() => {
+      loading.classList.remove('show');
+    }, 2000)
 
-      loadTwentyWords()
-
-    }, 1000)
+  } else {
+    loading.classList.remove('show');
 
 
   }
