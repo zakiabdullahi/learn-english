@@ -6,8 +6,16 @@
 			"The garden had an abundance of flowers.",
 			"They enjoyed an abundance of wealth."
 		],
-		"synonyms": ["plenty", "profusion", "excess"],
-		"antonyms": ["scarcity", "lack", "deficiency"]
+		"synonyms": [
+			"plenty",
+			"profusion",
+			"excess"
+		],
+		"antonyms": [
+			"scarcity",
+			"lack",
+			"deficiency"
+		]
 	},
 	{
 		"word": "benevolent",
@@ -16,8 +24,16 @@
 			"He is known for his benevolent nature.",
 			"The organization provides benevolent aid to those in need."
 		],
-		"synonyms": ["generous", "charitable", "compassionate"],
-		"antonyms": ["malevolent", "cruel", "unkind"]
+		"synonyms": [
+			"generous",
+			"charitable",
+			"compassionate"
+		],
+		"antonyms": [
+			"malevolent",
+			"cruel",
+			"unkind"
+		]
 	},
 	{
 		"word": "capricious",
@@ -26,8 +42,16 @@
 			"She is known for her capricious nature.",
 			"The weather can be capricious in this region."
 		],
-		"synonyms": ["whimsical", "fickle", "volatile"],
-		"antonyms": ["steady", "predictable", "consistent"]
+		"synonyms": [
+			"whimsical",
+			"fickle",
+			"volatile"
+		],
+		"antonyms": [
+			"steady",
+			"predictable",
+			"consistent"
+		]
 	},
 	{
 		"word": "deft",
@@ -36,8 +60,16 @@
 			"He made a deft move to avoid the opponent's strike.",
 			"The artist's deft brushstrokes brought the painting to life."
 		],
-		"synonyms": ["skillful", "nimble", "adept"],
-		"antonyms": ["clumsy", "awkward", "inept"]
+		"synonyms": [
+			"skillful",
+			"nimble",
+			"adept"
+		],
+		"antonyms": [
+			"clumsy",
+			"awkward",
+			"inept"
+		]
 	},
 	{
 		"word": "eloquent",
@@ -46,8 +78,16 @@
 			"The politician delivered an eloquent speech.",
 			"Her eloquent writing captivated readers."
 		],
-		"synonyms": ["articulate", "expressive", "fluent"],
-		"antonyms": ["inarticulate", "mumbled", "tongue-tied"]
+		"synonyms": [
+			"articulate",
+			"expressive",
+			"fluent"
+		],
+		"antonyms": [
+			"inarticulate",
+			"mumbled",
+			"tongue-tied"
+		]
 	},
 	{
 		"word": "fervent",
@@ -56,8 +96,16 @@
 			"She has a fervent desire to succeed.",
 			"The crowd gave a fervent applause to the performer."
 		],
-		"synonyms": ["ardent", "zealous", "enthusiastic"],
-		"antonyms": ["apathetic", "indifferent", "unenthusiastic"]
+		"synonyms": [
+			"ardent",
+			"zealous",
+			"enthusiastic"
+		],
+		"antonyms": [
+			"apathetic",
+			"indifferent",
+			"unenthusiastic"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -66,8 +114,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -76,8 +132,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -86,8 +150,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -96,8 +168,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -106,8 +186,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -116,8 +204,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -126,8 +222,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -136,8 +240,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -146,8 +258,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -156,8 +276,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -166,8 +294,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -176,8 +312,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -186,8 +330,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -196,8 +348,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -206,8 +366,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -216,8 +384,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -226,8 +402,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -236,8 +420,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -246,8 +438,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -256,8 +456,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -266,8 +474,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -276,8 +492,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -286,8 +510,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -296,8 +528,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -306,8 +546,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -316,8 +564,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -326,8 +582,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -336,8 +600,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -346,8 +618,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -356,8 +636,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -366,8 +654,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -376,8 +672,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -386,8 +690,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -396,8 +708,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -406,8 +726,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -416,8 +744,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -426,8 +762,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -436,8 +780,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -446,18 +798,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
-	},
-	{
-		"word": "vex",
-		"definition": "to annoy, frustrate, or provoke",
-		"examples": [
-			"The constant noise vexed him.",
-			"Her rude behavior vexed her coworkers."
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -466,8 +816,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -476,8 +834,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -486,8 +852,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -496,8 +870,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -506,8 +888,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -516,8 +906,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -526,8 +924,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -536,8 +942,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -546,8 +960,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -556,8 +978,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -566,8 +996,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -576,8 +1014,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -586,8 +1032,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -596,8 +1050,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -606,8 +1068,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -616,8 +1086,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -626,8 +1104,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -636,8 +1122,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -646,8 +1140,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -656,8 +1158,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -666,8 +1176,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -676,8 +1194,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -686,18 +1212,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
-	},
-	{
-		"word": "vex",
-		"definition": "to annoy, frustrate, or provoke",
-		"examples": [
-			"The constant noise vexed him.",
-			"Her rude behavior vexed her coworkers."
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -706,8 +1230,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -716,8 +1248,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -726,8 +1266,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -736,8 +1284,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -746,8 +1302,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -756,8 +1320,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -766,8 +1338,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -776,8 +1356,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -786,8 +1374,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -796,8 +1392,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -806,8 +1410,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -816,8 +1428,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -826,8 +1446,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -836,8 +1464,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -846,8 +1482,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -856,8 +1500,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -866,8 +1518,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -876,8 +1536,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -886,8 +1554,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -896,8 +1572,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -906,8 +1590,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -916,8 +1608,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -926,18 +1626,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
-	},
-	{
-		"word": "vex",
-		"definition": "to annoy, frustrate, or provoke",
-		"examples": [
-			"The constant noise vexed him.",
-			"Her rude behavior vexed her coworkers."
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -946,8 +1644,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -956,8 +1662,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -966,8 +1680,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -976,8 +1698,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -986,8 +1716,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -996,8 +1734,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -1006,8 +1752,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -1016,8 +1770,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -1026,8 +1788,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -1036,8 +1806,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -1046,8 +1824,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -1056,8 +1842,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -1066,8 +1860,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -1076,8 +1878,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -1086,8 +1896,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -1096,8 +1914,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -1106,8 +1932,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -1116,8 +1950,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -1126,8 +1968,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -1136,8 +1986,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -1146,8 +2004,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -1156,8 +2022,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -1166,8 +2040,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -1176,8 +2058,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -1186,8 +2076,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -1196,8 +2094,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -1206,8 +2112,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -1216,8 +2130,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -1226,8 +2148,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -1236,8 +2166,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -1246,8 +2184,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -1256,8 +2202,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -1266,8 +2220,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -1276,8 +2238,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -1286,8 +2256,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -1296,8 +2274,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -1306,8 +2292,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -1316,8 +2310,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -1326,8 +2328,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -1336,8 +2346,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -1346,8 +2364,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -1356,8 +2382,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -1366,8 +2400,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -1376,8 +2418,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -1386,8 +2436,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -1396,8 +2454,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -1406,8 +2472,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -1416,8 +2490,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -1426,8 +2508,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -1436,8 +2526,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -1446,8 +2544,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -1456,8 +2562,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -1466,8 +2580,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -1476,8 +2598,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -1486,8 +2616,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -1496,8 +2634,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -1506,8 +2652,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -1516,8 +2670,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -1526,8 +2688,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -1536,8 +2706,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -1546,8 +2724,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -1556,8 +2742,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -1566,8 +2760,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -1576,8 +2778,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -1586,8 +2796,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -1596,8 +2814,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -1606,8 +2832,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -1616,8 +2850,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -1626,8 +2868,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -1636,8 +2886,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -1646,8 +2904,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -1656,8 +2922,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -1666,8 +2940,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -1676,8 +2958,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -1686,8 +2976,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -1696,8 +2994,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -1706,8 +3012,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -1716,8 +3030,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -1726,8 +3048,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -1736,8 +3066,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -1746,8 +3084,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -1756,8 +3102,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -1766,8 +3120,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -1776,8 +3138,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -1786,8 +3156,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -1796,8 +3174,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -1806,8 +3192,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -1816,8 +3210,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -1826,8 +3228,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -1836,8 +3246,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -1846,8 +3264,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -1856,8 +3282,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -1866,8 +3300,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -1876,8 +3318,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -1886,8 +3336,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -1896,8 +3354,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -1906,8 +3372,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -1916,8 +3390,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -1926,8 +3408,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -1936,8 +3426,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -1946,8 +3444,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -1956,8 +3462,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -1966,8 +3480,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -1976,8 +3498,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -1986,8 +3516,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -1996,8 +3534,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -2006,8 +3552,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -2016,8 +3570,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -2026,8 +3588,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -2036,8 +3606,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -2046,8 +3624,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -2056,8 +3642,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -2066,8 +3660,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -2076,8 +3678,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -2086,8 +3696,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -2096,8 +3714,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -2106,8 +3732,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -2116,8 +3750,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -2126,8 +3768,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -2136,8 +3786,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -2146,8 +3804,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -2156,8 +3822,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -2166,8 +3840,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -2176,8 +3858,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -2186,8 +3876,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -2196,8 +3894,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -2206,8 +3912,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -2216,8 +3930,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -2226,8 +3948,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -2236,8 +3966,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -2246,8 +3984,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -2256,8 +4002,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -2266,8 +4020,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -2276,8 +4038,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -2286,8 +4056,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -2296,8 +4074,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -2306,8 +4092,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -2316,8 +4110,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -2326,8 +4128,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -2336,8 +4146,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -2346,8 +4164,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -2356,8 +4182,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -2366,8 +4200,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -2376,8 +4218,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -2386,8 +4236,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -2396,8 +4254,16 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	},
 	{
 		"word": "alacrity",
@@ -2406,8 +4272,16 @@
 			"He responded to the challenge with alacrity.",
 			"She accepted the opportunity with great alacrity."
 		],
-		"synonyms": ["enthusiasm", "readiness", "promptness"],
-		"antonyms": ["reluctance", "hesitation", "apathy"]
+		"synonyms": [
+			"enthusiasm",
+			"readiness",
+			"promptness"
+		],
+		"antonyms": [
+			"reluctance",
+			"hesitation",
+			"apathy"
+		]
 	},
 	{
 		"word": "benevolence",
@@ -2416,8 +4290,16 @@
 			"Her acts of benevolence helped many in need.",
 			"The community greatly appreciated his benevolence."
 		],
-		"synonyms": ["goodwill", "charity", "compassion"],
-		"antonyms": ["malevolence", "cruelty", "selfishness"]
+		"synonyms": [
+			"goodwill",
+			"charity",
+			"compassion"
+		],
+		"antonyms": [
+			"malevolence",
+			"cruelty",
+			"selfishness"
+		]
 	},
 	{
 		"word": "capitulate",
@@ -2426,8 +4308,16 @@
 			"The army was forced to capitulate.",
 			"He refused to capitulate to their demands."
 		],
-		"synonyms": ["surrender", "yield", "concede"],
-		"antonyms": ["resist", "defend", "withstand"]
+		"synonyms": [
+			"surrender",
+			"yield",
+			"concede"
+		],
+		"antonyms": [
+			"resist",
+			"defend",
+			"withstand"
+		]
 	},
 	{
 		"word": "deleterious",
@@ -2436,8 +4326,16 @@
 			"Smoking has deleterious effects on health.",
 			"The chemical had a deleterious impact on the environment."
 		],
-		"synonyms": ["harmful", "damaging", "detrimental"],
-		"antonyms": ["beneficial", "advantageous", "positive"]
+		"synonyms": [
+			"harmful",
+			"damaging",
+			"detrimental"
+		],
+		"antonyms": [
+			"beneficial",
+			"advantageous",
+			"positive"
+		]
 	},
 	{
 		"word": "eloquence",
@@ -2446,8 +4344,16 @@
 			"Her eloquence captivated the audience.",
 			"His eloquence as a writer earned him critical acclaim."
 		],
-		"synonyms": ["fluency", "expressiveness", "articulateness"],
-		"antonyms": ["inarticulateness", "incoherence", "stammering"]
+		"synonyms": [
+			"fluency",
+			"expressiveness",
+			"articulateness"
+		],
+		"antonyms": [
+			"inarticulateness",
+			"incoherence",
+			"stammering"
+		]
 	},
 	{
 		"word": "fickle",
@@ -2456,8 +4362,16 @@
 			"Her fickle nature made it hard to predict her choices.",
 			"The market can be fickle—demand changes rapidly."
 		],
-		"synonyms": ["volatile", "capricious", "unpredictable"],
-		"antonyms": ["steady", "consistent", "loyal"]
+		"synonyms": [
+			"volatile",
+			"capricious",
+			"unpredictable"
+		],
+		"antonyms": [
+			"steady",
+			"consistent",
+			"loyal"
+		]
 	},
 	{
 		"word": "garrulous",
@@ -2466,8 +4380,16 @@
 			"She is known for her garrulous nature.",
 			"He found it hard to concentrate with the garrulous coworker nearby."
 		],
-		"synonyms": ["talkative", "chatty", "loquacious"],
-		"antonyms": ["reserved", "reticent", "taciturn"]
+		"synonyms": [
+			"talkative",
+			"chatty",
+			"loquacious"
+		],
+		"antonyms": [
+			"reserved",
+			"reticent",
+			"taciturn"
+		]
 	},
 	{
 		"word": "harbinger",
@@ -2476,8 +4398,16 @@
 			"The robin is often seen as a harbinger of spring.",
 			"The dark clouds were a harbinger of the approaching storm."
 		],
-		"synonyms": ["omen", "sign", "indicator"],
-		"antonyms": ["follower", "consequence", "result"]
+		"synonyms": [
+			"omen",
+			"sign",
+			"indicator"
+		],
+		"antonyms": [
+			"follower",
+			"consequence",
+			"result"
+		]
 	},
 	{
 		"word": "impervious",
@@ -2486,8 +4416,16 @@
 			"The raincoat is impervious to water.",
 			"He seemed impervious to criticism."
 		],
-		"synonyms": ["impermeable", "resistant", "invulnerable"],
-		"antonyms": ["permeable", "vulnerable", "susceptible"]
+		"synonyms": [
+			"impermeable",
+			"resistant",
+			"invulnerable"
+		],
+		"antonyms": [
+			"permeable",
+			"vulnerable",
+			"susceptible"
+		]
 	},
 	{
 		"word": "jovial",
@@ -2496,8 +4434,16 @@
 			"He has a jovial personality that brightens the room.",
 			"The family shared a jovial dinner together."
 		],
-		"synonyms": ["merry", "jolly", "lighthearted"],
-		"antonyms": ["dour", "gloomy", "sullen"]
+		"synonyms": [
+			"merry",
+			"jolly",
+			"lighthearted"
+		],
+		"antonyms": [
+			"dour",
+			"gloomy",
+			"sullen"
+		]
 	},
 	{
 		"word": "kinship",
@@ -2506,8 +4452,16 @@
 			"There is a strong kinship between the two siblings.",
 			"The community has a sense of kinship and unity."
 		],
-		"synonyms": ["relationship", "connection", "affiliation"],
-		"antonyms": ["strangeness", "alienation", "disconnection"]
+		"synonyms": [
+			"relationship",
+			"connection",
+			"affiliation"
+		],
+		"antonyms": [
+			"strangeness",
+			"alienation",
+			"disconnection"
+		]
 	},
 	{
 		"word": "luminous",
@@ -2516,8 +4470,16 @@
 			"The moon cast a luminous glow over the lake.",
 			"Her eyes were luminous and captivating."
 		],
-		"synonyms": ["radiant", "glowing", "brilliant"],
-		"antonyms": ["dim", "dull", "dark"]
+		"synonyms": [
+			"radiant",
+			"glowing",
+			"brilliant"
+		],
+		"antonyms": [
+			"dim",
+			"dull",
+			"dark"
+		]
 	},
 	{
 		"word": "meticulous",
@@ -2526,8 +4488,16 @@
 			"She is known for her meticulous work.",
 			"He spent a meticulous amount of time planning the project."
 		],
-		"synonyms": ["thorough", "precise", "diligent"],
-		"antonyms": ["careless", "negligent", "sloppy"]
+		"synonyms": [
+			"thorough",
+			"precise",
+			"diligent"
+		],
+		"antonyms": [
+			"careless",
+			"negligent",
+			"sloppy"
+		]
 	},
 	{
 		"word": "novice",
@@ -2536,8 +4506,16 @@
 			"He is a novice in the world of photography.",
 			"The team is comprised of both experts and novices."
 		],
-		"synonyms": ["beginner", "amateur", "rookie"],
-		"antonyms": ["expert", "veteran", "pro"]
+		"synonyms": [
+			"beginner",
+			"amateur",
+			"rookie"
+		],
+		"antonyms": [
+			"expert",
+			"veteran",
+			"pro"
+		]
 	},
 	{
 		"word": "obfuscate",
@@ -2546,8 +4524,16 @@
 			"The speaker used complex jargon to obfuscate the issue.",
 			"The intention was to obfuscate the truth."
 		],
-		"synonyms": ["confuse", "muddle", "obscure"],
-		"antonyms": ["clarify", "illuminate", "elucidate"]
+		"synonyms": [
+			"confuse",
+			"muddle",
+			"obscure"
+		],
+		"antonyms": [
+			"clarify",
+			"illuminate",
+			"elucidate"
+		]
 	},
 	{
 		"word": "paradox",
@@ -2556,8 +4542,16 @@
 			"The statement 'less is more' is a paradox.",
 			"The concept of time travel is riddled with paradoxes."
 		],
-		"synonyms": ["contradiction", "enigma", "puzzle"],
-		"antonyms": ["coherence", "consistency", "agreement"]
+		"synonyms": [
+			"contradiction",
+			"enigma",
+			"puzzle"
+		],
+		"antonyms": [
+			"coherence",
+			"consistency",
+			"agreement"
+		]
 	},
 	{
 		"word": "quell",
@@ -2566,8 +4560,16 @@
 			"The police were called to quell the riot.",
 			"She took deep breaths to quell her anxiety."
 		],
-		"synonyms": ["suppress", "subdue", "pacify"],
-		"antonyms": ["provoke", "incite", "agitate"]
+		"synonyms": [
+			"suppress",
+			"subdue",
+			"pacify"
+		],
+		"antonyms": [
+			"provoke",
+			"incite",
+			"agitate"
+		]
 	},
 	{
 		"word": "resilient",
@@ -2576,8 +4578,16 @@
 			"Despite the challenges, he remained resilient.",
 			"The team showed a resilient spirit in the face of defeat."
 		],
-		"synonyms": ["adaptable", "strong", "tough"],
-		"antonyms": ["fragile", "vulnerable", "weak"]
+		"synonyms": [
+			"adaptable",
+			"strong",
+			"tough"
+		],
+		"antonyms": [
+			"fragile",
+			"vulnerable",
+			"weak"
+		]
 	},
 	{
 		"word": "serendipity",
@@ -2586,8 +4596,16 @@
 			"Finding a rare book at the flea market was pure serendipity.",
 			"They met by serendipity and became lifelong friends."
 		],
-		"synonyms": ["luck", "fortuity", "chance"],
-		"antonyms": ["misfortune", "disaster", "misery"]
+		"synonyms": [
+			"luck",
+			"fortuity",
+			"chance"
+		],
+		"antonyms": [
+			"misfortune",
+			"disaster",
+			"misery"
+		]
 	},
 	{
 		"word": "taciturn",
@@ -2596,8 +4614,16 @@
 			"He is known for being taciturn and rarely speaks.",
 			"The taciturn neighbor kept to themselves."
 		],
-		"synonyms": ["quiet", "silent", "reticent"],
-		"antonyms": ["talkative", "garrulous", "chatty"]
+		"synonyms": [
+			"quiet",
+			"silent",
+			"reticent"
+		],
+		"antonyms": [
+			"talkative",
+			"garrulous",
+			"chatty"
+		]
 	},
 	{
 		"word": "ubiquitous",
@@ -2606,8 +4632,16 @@
 			"Cellphones have become ubiquitous in modern society.",
 			"The song seemed to be playing on every radio station—it was ubiquitous."
 		],
-		"synonyms": ["widespread", "omnipresent", "pervasive"],
-		"antonyms": ["rare", "scarce", "limited"]
+		"synonyms": [
+			"widespread",
+			"omnipresent",
+			"pervasive"
+		],
+		"antonyms": [
+			"rare",
+			"scarce",
+			"limited"
+		]
 	},
 	{
 		"word": "vex",
@@ -2616,8 +4650,16 @@
 			"The constant noise vexed him.",
 			"Her rude behavior vexed her coworkers."
 		],
-		"synonyms": ["irritate", "aggravate", "bother"],
-		"antonyms": ["soothe", "calm", "please"]
+		"synonyms": [
+			"irritate",
+			"aggravate",
+			"bother"
+		],
+		"antonyms": [
+			"soothe",
+			"calm",
+			"please"
+		]
 	},
 	{
 		"word": "whimsical",
@@ -2626,8 +4668,16 @@
 			"Her whimsical artwork brought a smile to people's faces.",
 			"The garden was filled with whimsical sculptures."
 		],
-		"synonyms": ["quirky", "eccentric", "fantastical"],
-		"antonyms": ["serious", "conventional", "practical"]
+		"synonyms": [
+			"quirky",
+			"eccentric",
+			"fantastical"
+		],
+		"antonyms": [
+			"serious",
+			"conventional",
+			"practical"
+		]
 	},
 	{
 		"word": "zenith",
@@ -2636,7 +4686,15 @@
 			"The team's performance reached its zenith.",
 			"She reached the zenith of her career."
 		],
-		"synonyms": ["apex", "pinnacle", "acme"],
-		"antonyms": ["nadir", "bottom", "depths"]
+		"synonyms": [
+			"apex",
+			"pinnacle",
+			"acme"
+		],
+		"antonyms": [
+			"nadir",
+			"bottom",
+			"depths"
+		]
 	}
 ]

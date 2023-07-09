@@ -1,0 +1,48 @@
+// currentdata.forEach((word) => {
+
+
+    //     let WordContainer = document.createElement("div");
+    //     WordContainer.classList.add("word");
+    //     WordContainer.innerHTML += `
+
+    //                     <h2>${word.word}</h2>
+    //                     <div class="definition">
+    //                     <p id="paragraph">
+    //                     ${word.definition}
+    //                     </p>
+    //                 </div>
+    //                 <div class="examples">
+    //                 <h3>Examples:</h3>
+    //                 <span>${word.examples[0]}, </span>
+    //                 <span>${word.examples[1]} </span>
+    //                 </div>
+    //                 <div class="synonyms">
+    //                 <h3>Synonyms:</h3>
+    //                 <span>${word.synonyms[0]} </span>
+    //                 <span>${word.synonyms[1]} ,</span>
+    //                 <span>${word.synonyms[2]} ,</span>
+
+    //             </div>
+    //             <div class="antonyms">
+    //             <h3>Antonyms:</h3>
+    //             <span>${word.antonyms[0]} ,</span>
+    //             <span>${word.antonyms[1]} ,</span>
+    //             <span>${word.antonyms[2]} </span>
+    //     `
+
+
+
+    //     words.appendChild(WordContainer);
+    // })
+    // currentIndex = end;
+    // currentdata = data.splice(start, end);
+    // // let newdata = data2.splice(end, end + 10);
+    // console.log("after", currentdata);
+
+
+
+
+    // console.log(data);
+
+
+

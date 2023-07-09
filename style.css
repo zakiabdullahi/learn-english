@@ -50,7 +50,7 @@ select {
 .words {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 15px;
+  gap: 20px;
   margin-bottom: 80px;
 }
 .word {
@@ -63,6 +63,7 @@ select {
   gap: 10px;
   /* background-color: #ccc; */
   border-radius: 5px;
+  margin-top: 20px;
 }
 .word h2 {
   border-bottom: 1px solid rgb(84, 82, 82);
