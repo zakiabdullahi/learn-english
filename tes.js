@@ -100,16 +100,7 @@ const showLoading = () => {
 window.addEventListener('scroll', function () {
     if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
 
-        // console.log("Scroll Start");
         showLoading();
-
-        // loadData();
-        // console.log("END:", currentIndex);
-        // console.log("Scroll end");
-
-
-
-
 
 
 
@@ -121,15 +112,7 @@ window.addEventListener('scroll', function () {
 
 
 
-        // currentIndex = end;
-
-        // console.log("windows", currentIndex);
-
-        // console.log("second");
-
 
     }
 
 });
-
-// console.log(currentIndex);
