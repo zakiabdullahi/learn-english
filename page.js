@@ -1,243 +1,124 @@
-// let words = document.querySelector(".words");
-// const loading = document.querySelector('.loading');
-// const getWordsFromLocalStorage = () => {
+let words = document.querySelector(".words");
+const loading = document.querySelector('.loading');
 
-//   let words = JSON.parse(localStorage.getItem("words"));
 
-//   return words ? JSON.parse(localStorage.getItem("words")) : [];
+const getWordsFromLocalStorage = () => {
 
-// }
+    let words = JSON.parse(localStorage.getItem("words"));
 
-// let isloading = false;
+    return words ? JSON.parse(localStorage.getItem("words")) : [];
 
-// const loadTenWords = () => {
+}
 
 
 
-//   let data = getWordsFromLocalStorage();
+// let currentIndex = 0
+let start = 0;
+let end = 10;
+let data = getWordsFromLocalStorage();
+
+const loadData = () => {
 
 
-//   for (let i = 0; i < data.length; i++) {
 
-//     console.log("data", data[i]);
-//     words.innerHTML += `
 
-//                        <div class="word">
-//                             <h2>${data[i].word}</h2>
-//                             <div class="definition">
-//                             <p id="paragraph">
-//                               ${data[i].definition}
-//                             </p>
-//                           </div>
-//                           <div class="examples">
-//                           <h3>Examples:</h3>
-//                           <span>${data[i].examples[0]}, </span>
-//                           <span>${data[i].examples[1]} </span>
-//                         </div>
-//                         <div class="synonyms">
-//                         <h3>Synonyms:</h3>
-//                         <span>${data[i].synonyms[0]} </span>
-//                         <span>${data[i].synonyms[1]} ,</span>
-//                         <span>${data[i].synonyms[2]} ,</span>
-                  
-//                       </div>
-//                       <div class="antonyms">
-//                       <h3>Antonyms:</h3>
-//                       <span>${data[i].antonyms[0]} ,</span>
-//                       <span>${data[i].antonyms[1]} ,</span>
-//                       <span>${data[i].antonyms[2]} </span>
-                            
-                            
-//                        </div>
-                       
- 
+    let batch = data.slice(start, start + end)
+
+    start += end;
+
+
+    // console.log("before", currentIndex);
+    // console.log("before", end);
+    batch.forEach((word) => {
+
+        console.log(data);
+
+
+        let WordContainer = document.createElement("div");
+        WordContainer.classList.add("word");
+        WordContainer.innerHTML += `
+    
+                            <h2>${word.word}</h2>
+                            <div class="definition">
+                            <p id="paragraph">
+                            ${word.definition}
+                            </p>
+                        </div>
+                        <div class="examples">
+                        <h3>Examples:</h3>
+                        <span>${word.examples[0]}, </span>
+                        <span>${word.examples[1]} </span>
+                        </div>
+                        <div class="synonyms">
+                        <h3>Synonyms:</h3>
+                        <span>${word.synonyms[0]} </span>
+                        <span>${word.synonyms[1]} ,</span>
+                        <span>${word.synonyms[2]} ,</span>
+    
+                    </div>
+                    <div class="antonyms">
+                    <h3>Antonyms:</h3>
+                    <span>${word.antonyms[0]} ,</span>
+                    <span>${word.antonyms[1]} ,</span>
+                    <span>${word.antonyms[2]} </span>
+
                     
-//                     `
-//     loading.classList.remove('show');
+            `
 
-//     if (i == 9) {
 
-//       break;
 
-//     }
-//   }
+        words.appendChild(WordContainer);
 
-//   data.forEach((word) => {
+    })
 
-//     // words.innerHTML += `
 
-//     //       <div class="word">
-//     //       <h2>${word.word}</h2>
-//     //       <div class="definition">
-//     //       <p id="paragraph">
-//     //         ${word.definition}
-//     //       </p>
-//     //     </div>
-//     //     <div class="examples">
-//     //     <h3>Examples:</h3>
-//     //     <span>${word.examples[0]}, </span>
-//     //     <span>${word.examples[1]} </span>
-//     //   </div>
-//     //   <div class="synonyms">
-//     //   <h3>Synonyms:</h3>
-//     //   <span>${word.synonyms[0]} </span>
-//     //   <span>${word.synonyms[1]} ,</span>
-//     //   <span>${word.synonyms[2]} ,</span>
-
-//     // </div>
-//     // <div class="antonyms">
-//     // <h3>Antonyms:</h3>
-//     // <span>${word.antonyms[0]} ,</span>
-//     // <span>${word.antonyms[1]} ,</span>
-//     // <span>${word.antonyms[2]} </span>
-
-//     // //                 </div>`
-
-//     // loading.classList.remove('show');
+    // currentIndex = end;
+    // end = end + 10;
 
 
 
 
-//   });
-
-
-// }
-// loadTenWords();
-// const loadTwentyWords = () => {
-
-
-
-//   let data = getWordsFromLocalStorage();
+    // console.log("after curr", currentIndex);
+    // console.log("after end", end);
 
 
 
 
-//   for (let i = 10; i < data.length; i++) {
 
-//     console.log("data", data[i]);
-//     words.innerHTML += `
 
-//                        <div class="word">
-//                             <h2>${data[i].word}</h2>
-//                             <div class="definition">
-//                             <p id="paragraph">
-//                               ${data[i].definition}
-//                             </p>
-//                           </div>
-//                           <div class="examples">
-//                           <h3>Examples:</h3>
-//                           <span>${data[i].examples[0]}, </span>
-//                           <span>${data[i].examples[1]} </span>
-//                         </div>
-//                         <div class="synonyms">
-//                         <h3>Synonyms:</h3>
-//                         <span>${data[i].synonyms[0]} </span>
-//                         <span>${data[i].synonyms[1]} ,</span>
-//                         <span>${data[i].synonyms[2]} ,</span>
-                  
-//                       </div>
-//                       <div class="antonyms">
-//                       <h3>Antonyms:</h3>
-//                       <span>${data[i].antonyms[0]} ,</span>
-//                       <span>${data[i].antonyms[1]} ,</span>
-//                       <span>${data[i].antonyms[2]} </span>
-                            
-                            
-//                        </div>
-                       
-                       
- 
-                    
-//                     `
-//     loading.classList.remove('show');
+}
 
-//     if (i == 19) {
 
-//       break;
 
-//     }
-//   }
+loadData();
+// loadData();
+// loadData();
 
-//   data.forEach((word) => {
 
-//     // words.innerHTML += `
 
-//     //       <div class="word">
-//     //       <h2>${word.word}</h2>
-//     //       <div class="definition">
-//     //       <p id="paragraph">
-//     //         ${word.definition}
-//     //       </p>
-//     //     </div>
-//     //     <div class="examples">
-//     //     <h3>Examples:</h3>
-//     //     <span>${word.examples[0]}, </span>
-//     //     <span>${word.examples[1]} </span>
-//     //   </div>
-//     //   <div class="synonyms">
-//     //   <h3>Synonyms:</h3>
-//     //   <span>${word.synonyms[0]} </span>
-//     //   <span>${word.synonyms[1]} ,</span>
-//     //   <span>${word.synonyms[2]} ,</span>
+// console.log("secnond:")
+// loadData();
 
-//     // </div>
-//     // <div class="antonyms">
-//     // <h3>Antonyms:</h3>
-//     // <span>${word.antonyms[0]} ,</span>
-//     // <span>${word.antonyms[1]} ,</span>
-//     // <span>${word.antonyms[2]} </span>
+const showLoading = () => {
+    loading.classList.add('show');
+}
+window.addEventListener('scroll', function () {
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
 
-//     // //                 </div>`
+        showLoading();
 
-//     // loading.classList.remove('show');
+
+
+        this.setTimeout(() => {
+            loading.classList.remove('show');
+            loadData();
+            // currentIndex += 10
+
+        }, 2000)
 
 
 
 
-//   });
+    }
 
-
-// }
-
-
-// const showLoading = () => {
-
-//   loading.classList.add('show');
-//   // if (isloading) {
-//   //   return;
-//   // }
-
-//   setTimeout(() => {
-//     // isloading = true;
-
-//     loadTwentyWords()
-//     // loading.classList.remove('show');
-
-
-
-
-//   }, 1000)
-
-
-// }
-// window.addEventListener('scroll', function () {
-//   console.log("window.innerHeight " + window.innerHeight + "px");
-//   console.log("window.scrollY " + window.scrollY + "px");
-//   console.log("document.body.offsetHeight " + document.body.offsetHeight + "px");
-
-//   if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
-//     showLoading()
-//     this.setTimeout(() => {
-
-//       loadTenWords();
-//       loading.classList.remove('show');
-//     }, 2000)
-
-//   }
-
-//   // else {
-//   //   loading.classList.remove('show');
-
-
-//   // }
-// });
+});

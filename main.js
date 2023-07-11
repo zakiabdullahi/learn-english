@@ -113,7 +113,6 @@ const displayAll = (word) => {
           ><input type="checkbox" id="learn" name="learn" value="learn" />
         </div>
       
-
     
     `
 
